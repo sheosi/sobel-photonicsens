@@ -1,6 +1,7 @@
-#Filtro Sobel
+# Filtro Sobel
 
 *cpp*: Implementación en c++ con opencl
+
 *rs*: Implementación en Rust básica
 
 
